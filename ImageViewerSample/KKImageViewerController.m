@@ -48,10 +48,10 @@
     return UIStatusBarStyleLightContent;
 }
 
--(UIStatusBarAnimation)preferredStatusBarUpdateAnimation
-{
-    return UIStatusBarAnimationFade;
-}
+//-(UIStatusBarAnimation)preferredStatusBarUpdateAnimation
+//{
+//    return UIStatusBarAnimationFade;
+//}
 
 #pragma mark -
 #pragma mark Gesture
